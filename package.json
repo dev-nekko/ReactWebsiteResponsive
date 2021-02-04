@@ -1,8 +1,8 @@
 {
-  
-  "name": "react-website",
+  "name": "website-app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://dev-nekko.github.io/ReactWebsiteResponsive/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
