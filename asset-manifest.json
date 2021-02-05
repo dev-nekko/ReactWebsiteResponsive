@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.9b030e8a.chunk.css",
-    "main.js": "/static/js/main.fa935685.chunk.js",
-    "main.js.map": "/static/js/main.fa935685.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.85b924ae.js",
-    "runtime-main.js.map": "/static/js/runtime-main.85b924ae.js.map",
-    "static/js/2.4dfacd23.chunk.js": "/static/js/2.4dfacd23.chunk.js",
-    "static/js/2.4dfacd23.chunk.js.map": "/static/js/2.4dfacd23.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.9b030e8a.chunk.css.map": "/static/css/main.9b030e8a.chunk.css.map",
-    "static/js/2.4dfacd23.chunk.js.LICENSE.txt": "/static/js/2.4dfacd23.chunk.js.LICENSE.txt"
+    "main.css": "/ReactWebsiteResponsive/static/css/main.9b030e8a.chunk.css",
+    "main.js": "/ReactWebsiteResponsive/static/js/main.b6fa36fe.chunk.js",
+    "main.js.map": "/ReactWebsiteResponsive/static/js/main.b6fa36fe.chunk.js.map",
+    "runtime-main.js": "/ReactWebsiteResponsive/static/js/runtime-main.1779abbd.js",
+    "runtime-main.js.map": "/ReactWebsiteResponsive/static/js/runtime-main.1779abbd.js.map",
+    "static/js/2.4dfacd23.chunk.js": "/ReactWebsiteResponsive/static/js/2.4dfacd23.chunk.js",
+    "static/js/2.4dfacd23.chunk.js.map": "/ReactWebsiteResponsive/static/js/2.4dfacd23.chunk.js.map",
+    "index.html": "/ReactWebsiteResponsive/index.html",
+    "static/css/main.9b030e8a.chunk.css.map": "/ReactWebsiteResponsive/static/css/main.9b030e8a.chunk.css.map",
+    "static/js/2.4dfacd23.chunk.js.LICENSE.txt": "/ReactWebsiteResponsive/static/js/2.4dfacd23.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.85b924ae.js",
+    "static/js/runtime-main.1779abbd.js",
     "static/js/2.4dfacd23.chunk.js",
     "static/css/main.9b030e8a.chunk.css",
-    "static/js/main.fa935685.chunk.js"
+    "static/js/main.b6fa36fe.chunk.js"
   ]
 }
